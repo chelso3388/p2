@@ -1,4 +1,7 @@
-
-#q-1, #over-25 {
+#under, #over {
   display: none;
-}
+};
+
+#fantasy, #mystery, #comic {
+  display: none;
+};
